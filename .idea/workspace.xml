@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e4cbece-9077-4fc5-846e-18d4beeed242" name="Default" comment="oops didnt mean to add that">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/githubintegration/src/main/java/com/realityexpander/githubintegration/MainActivity.java" afterPath="$PROJECT_DIR$/githubintegration/src/main/java/com/realityexpander/githubintegration/MainActivity.java" />
+    <list default="true" id="9e4cbece-9077-4fc5-846e-18d4beeed242" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="githubintegration.iws" />
@@ -70,8 +69,10 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/githubintegration/src/main/java/com/realityexpander/githubintegration/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="347" selection-end="347" vertical-scroll-proportion="0.31380752" vertical-offset="0" max-vertical-offset="478">
-              <folding />
+            <state line="23" column="5" selection-start="468" selection-end="631" vertical-scroll-proportion="0.7217573" vertical-offset="0" max-vertical-offset="480">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -404,6 +405,11 @@
       <created>1378495254295</created>
       <updated>1378495254295</updated>
     </task>
+    <task id="LOCAL-00001" summary="oops didnt mean to add that">
+      <created>1378501128239</created>
+      <updated>1378501128239</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -501,14 +507,18 @@
     <entry file="file://$PROJECT_DIR$/githubintegration/src/main/java/com/realityexpander/githubintegration/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="0" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="420">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/githubintegration/src/main/java/com/realityexpander/githubintegration/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="347" selection-end="347" vertical-scroll-proportion="0.31380752" vertical-offset="0" max-vertical-offset="478">
-          <folding />
+        <state line="23" column="5" selection-start="468" selection-end="631" vertical-scroll-proportion="0.7217573" vertical-offset="0" max-vertical-offset="480">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
